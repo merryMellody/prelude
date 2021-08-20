@@ -1,4 +1,4 @@
-(defvar merry/font-height 160)
+(defvar merry/font-height 120)
 
 (set-face-attribute 'default nil :font "Fira Code Retina" :height merry/font-height)
 
